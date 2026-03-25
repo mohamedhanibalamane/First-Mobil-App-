@@ -1,6 +1,6 @@
 # tp1_flutter
 
-A new Flutter project.
+A new Flutter project : "Bonjour USTHB"
 
 ## Getting Started
 
